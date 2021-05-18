@@ -1,0 +1,10 @@
+name: SamplePlugin
+version: 1.0.0
+author: Fang Han
+main: me.hanfa.sample_plugin.SamplePlugin
+description: Our first minecraft plugin!
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is the hello command!
